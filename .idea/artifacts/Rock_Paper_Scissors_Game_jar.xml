@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rock_Paper_Scissors_Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rock_Paper_Scissors_Game_jar</output-path>
+    <root id="archive" name="Rock_Paper_Scissors_Game.jar">
+      <element id="module-output" name="Rock_Paper_Scissors_Game" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/prompt-view-0.2.1-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
